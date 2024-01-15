@@ -1,2 +1,3 @@
-* This crypto converter project is made with free api
-* Used ant design to design project
+* This crypto converter project is made with React js
+* For design ant design is used
+* For data free api is used
